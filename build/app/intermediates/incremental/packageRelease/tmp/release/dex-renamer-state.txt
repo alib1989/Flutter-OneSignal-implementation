@@ -1,0 +1,4 @@
+#Thu Jun 17 16:11:47 AST 2021
+base.0=/Users/alibahjat/Desktop/Flutter/onesignalflutter/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

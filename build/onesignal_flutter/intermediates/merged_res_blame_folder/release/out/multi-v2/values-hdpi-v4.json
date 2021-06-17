@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/alibahjat/Desktop/Flutter/onesignalflutter/build/onesignal_flutter/intermediates/incremental/mergeReleaseResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/20a1d2511a1435dd6f163f33270d272b/appcompat-1.4.0-alpha02/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/20a1d2511a1435dd6f163f33270d272b/appcompat-1.4.0-alpha02/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

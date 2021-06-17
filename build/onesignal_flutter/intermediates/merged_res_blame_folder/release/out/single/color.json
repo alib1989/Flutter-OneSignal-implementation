@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/color/abc_tint_edittext.xml",
+        "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/20a1d2511a1435dd6f163f33270d272b/appcompat-1.4.0-alpha02/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/20a1d2511a1435dd6f163f33270d272b/appcompat-1.4.0-alpha02/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/0f4ecf196669b678306b0c6830c94c2f/jetified-play-services-base-17.6.0/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/20a1d2511a1435dd6f163f33270d272b/appcompat-1.4.0-alpha02/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/color/abc_tint_switch_track.xml",
+        "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/20a1d2511a1435dd6f163f33270d272b/appcompat-1.4.0-alpha02/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/20a1d2511a1435dd6f163f33270d272b/appcompat-1.4.0-alpha02/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/20a1d2511a1435dd6f163f33270d272b/appcompat-1.4.0-alpha02/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/20a1d2511a1435dd6f163f33270d272b/appcompat-1.4.0-alpha02/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/20a1d2511a1435dd6f163f33270d272b/appcompat-1.4.0-alpha02/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/color/abc_tint_default.xml",
+        "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/20a1d2511a1435dd6f163f33270d272b/appcompat-1.4.0-alpha02/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/20a1d2511a1435dd6f163f33270d272b/appcompat-1.4.0-alpha02/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/20a1d2511a1435dd6f163f33270d272b/appcompat-1.4.0-alpha02/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/0f4ecf196669b678306b0c6830c94c2f/jetified-play-services-base-17.6.0/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/20a1d2511a1435dd6f163f33270d272b/appcompat-1.4.0-alpha02/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/20a1d2511a1435dd6f163f33270d272b/appcompat-1.4.0-alpha02/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/20a1d2511a1435dd6f163f33270d272b/appcompat-1.4.0-alpha02/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/20a1d2511a1435dd6f163f33270d272b/appcompat-1.4.0-alpha02/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/color/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/20a1d2511a1435dd6f163f33270d272b/appcompat-1.4.0-alpha02/res/color/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/20a1d2511a1435dd6f163f33270d272b/appcompat-1.4.0-alpha02/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/20a1d2511a1435dd6f163f33270d272b/appcompat-1.4.0-alpha02/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/color/abc_tint_spinner.xml",
+        "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/20a1d2511a1435dd6f163f33270d272b/appcompat-1.4.0-alpha02/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/20a1d2511a1435dd6f163f33270d272b/appcompat-1.4.0-alpha02/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/0f4ecf196669b678306b0c6830c94c2f/jetified-play-services-base-17.6.0/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/color/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/20a1d2511a1435dd6f163f33270d272b/appcompat-1.4.0-alpha02/res/color/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

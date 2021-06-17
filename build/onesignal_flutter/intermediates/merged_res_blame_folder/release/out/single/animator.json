@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/animator/fragment_close_enter.xml",
+        "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/c4b1004e00c117c48f541e2b0a6a26f6/fragment-1.3.4/res/animator/fragment_close_enter.xml"
+    },
+    {
+        "merged": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/animator/fragment_fade_enter.xml",
+        "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/c4b1004e00c117c48f541e2b0a6a26f6/fragment-1.3.4/res/animator/fragment_fade_enter.xml"
+    },
+    {
+        "merged": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/animator/fragment_close_exit.xml",
+        "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/c4b1004e00c117c48f541e2b0a6a26f6/fragment-1.3.4/res/animator/fragment_close_exit.xml"
+    },
+    {
+        "merged": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/animator/fragment_open_exit.xml",
+        "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/c4b1004e00c117c48f541e2b0a6a26f6/fragment-1.3.4/res/animator/fragment_open_exit.xml"
+    },
+    {
+        "merged": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/animator/fragment_open_enter.xml",
+        "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/c4b1004e00c117c48f541e2b0a6a26f6/fragment-1.3.4/res/animator/fragment_open_enter.xml"
+    },
+    {
+        "merged": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/animator/fragment_fade_exit.xml",
+        "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/c4b1004e00c117c48f541e2b0a6a26f6/fragment-1.3.4/res/animator/fragment_fade_exit.xml"
+    }
+]

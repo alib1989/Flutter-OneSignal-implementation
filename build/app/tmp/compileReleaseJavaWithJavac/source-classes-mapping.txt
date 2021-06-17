@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/alhasani/onesignalflutter/BuildConfig.java
+ com.alhasani.onesignalflutter.BuildConfig

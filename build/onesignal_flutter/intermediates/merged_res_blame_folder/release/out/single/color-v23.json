@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/20a1d2511a1435dd6f163f33270d272b/appcompat-1.4.0-alpha02/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/20a1d2511a1435dd6f163f33270d272b/appcompat-1.4.0-alpha02/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/20a1d2511a1435dd6f163f33270d272b/appcompat-1.4.0-alpha02/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/20a1d2511a1435dd6f163f33270d272b/appcompat-1.4.0-alpha02/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/20a1d2511a1435dd6f163f33270d272b/appcompat-1.4.0-alpha02/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/20a1d2511a1435dd6f163f33270d272b/appcompat-1.4.0-alpha02/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/20a1d2511a1435dd6f163f33270d272b/appcompat-1.4.0-alpha02/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/20a1d2511a1435dd6f163f33270d272b/appcompat-1.4.0-alpha02/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/20a1d2511a1435dd6f163f33270d272b/appcompat-1.4.0-alpha02/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    }
+]

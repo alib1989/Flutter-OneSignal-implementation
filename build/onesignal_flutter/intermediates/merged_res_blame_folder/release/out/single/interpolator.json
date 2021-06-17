@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/interpolator/fast_out_slow_in.xml",
+        "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/20a1d2511a1435dd6f163f33270d272b/appcompat-1.4.0-alpha02/res/interpolator/fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml",
+        "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/20a1d2511a1435dd6f163f33270d272b/appcompat-1.4.0-alpha02/res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/20a1d2511a1435dd6f163f33270d272b/appcompat-1.4.0-alpha02/res/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/20a1d2511a1435dd6f163f33270d272b/appcompat-1.4.0-alpha02/res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/20a1d2511a1435dd6f163f33270d272b/appcompat-1.4.0-alpha02/res/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/20a1d2511a1435dd6f163f33270d272b/appcompat-1.4.0-alpha02/res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/alibahjat/flutter/.pub-cache/hosted/pub.dartlang.org/onesignal_flutter-3.0.0/android/build/intermediates/res/merged/release/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml",
+        "source": "/Users/alibahjat/.gradle/caches/transforms-2/files-2.1/20a1d2511a1435dd6f163f33270d272b/appcompat-1.4.0-alpha02/res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml"
+    }
+]
